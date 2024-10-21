@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">converterBits</string>
+    <string name="bytes">Bytes</string>
+    <string name="kB">KBytes</string>
+    <string name="mB">MBytes</string>
+    <string name="gB">GBytes</string>
+    <string name="tB">TBytes</string>
+    <string name="valorBits">Digite o valor em bits</string>
+    <string name="converterBits">Converter</string>"
+</resources>
